@@ -1,0 +1,392 @@
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe.config
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMAdminMenu.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.Resources.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbproj.GenerateResource.Cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHome.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccount.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKey.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfile.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCollegeSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettingsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCourseSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomCatSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSectionSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccountReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReportsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKeyReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfileReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucActivityLogReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMLOGIN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMSPLASHSCREEN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucKeyTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe.config
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMAdminMenu.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMLOGIN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMSPLASHSCREEN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.Resources.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccountReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucActivityLogReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCollegeSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCourseSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHome.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccount.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfile.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfileReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReportsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomCatSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKey.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKeyReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSectionSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettingsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucKeyTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbproj.GenerateResource.Cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbprojResolveAssemblyReference.cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RdlCompile.cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RdlCompile.compiled
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMGUARDMENU.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucguardtrans.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHomeGuard.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardKeyTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardActLog.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSACTION.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 01152022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSCLOSE.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe.config
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbprojResolveAssemblyReference.cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMAdminMenu.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMGUARDMENU.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMLOGIN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMSPLASHSCREEN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSACTION.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSCLOSE.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.Resources.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccountReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucActivityLogReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCollegeSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCourseSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardActLog.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardKeyTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucguardtrans.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHome.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccount.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHomeGuard.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfile.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfileReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReportsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomCatSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKey.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKeyReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSectionSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettingsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucKeyTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbproj.GenerateResource.Cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RdlCompile.cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022\RFID-Based_KMS\obj\Debug\RdlCompile.compiled
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe.config
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbprojResolveAssemblyReference.cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMAdminMenu.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMGUARDMENU.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMLOGIN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMSPLASHSCREEN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSACTION.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSCLOSE.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.Resources.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccountReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucActivityLogReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCollegeSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCourseSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardActLog.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardKeyTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucguardtrans.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHome.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccount.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHomeGuard.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfile.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfileReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReportsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomCatSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKey.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKeyReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSectionSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettingsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucKeyTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbproj.GenerateResource.Cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RdlCompile.cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05012022 Original\RFID-Based_KMS\obj\Debug\RdlCompile.compiled
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe.config
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbprojResolveAssemblyReference.cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMAdminMenu.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMGUARDMENU.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMLOGIN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMSPLASHSCREEN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSACTION.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSCLOSE.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.Resources.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccountReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucActivityLogReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCollegeSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCourseSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardActLog.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardKeyTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucguardtrans.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHome.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccount.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHomeGuard.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfile.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfileReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReportsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomCatSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKey.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKeyReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSectionSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettingsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucKeyTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbproj.GenerateResource.Cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RdlCompile.cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RdlCompile.compiled
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS - 05072022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemQuantitySettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe.config
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbprojResolveAssemblyReference.cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMAdminMenu.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMGUARDMENU.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMLOGIN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMSPLASHSCREEN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSACTION.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSCLOSE.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.Resources.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccountReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucActivityLogReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCollegeSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCourseSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardActLog.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardKeyTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucguardtrans.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHome.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccount.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHomeGuard.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemQuantitySettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfile.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfileReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReportsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomCatSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKey.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKeyReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSectionSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettingsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucKeyTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbproj.GenerateResource.Cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RdlCompile.cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022B\RFID-Based_KMS\obj\Debug\RdlCompile.compiled
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe.config
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.pdb
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbprojResolveAssemblyReference.cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMAdminMenu.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMGUARDMENU.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMLOGIN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMSPLASHSCREEN.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSACTION.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSCLOSE.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.Resources.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccountReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucActivityLogReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCollegeSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCourseSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardActLog.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardKeyTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucguardtrans.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHome.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccount.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHomeGuard.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemBorrow.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemQuantitySettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfile.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfileReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReportsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReturn.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomCatSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKey.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKeyReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSectionSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettings.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettingsBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucKeyTransaction.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionBlank.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionReports.resources
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbproj.GenerateResource.Cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RdlCompile.cache
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05112022 Original\RFID-Based_KMS\obj\Debug\RdlCompile.compiled
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05242022 - Original\RFID-Based_KMS\bin\Debug\RFID-Based_KMS.exe.config
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05242022 - Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.exe
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05242022 - Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.xml
+D:\RFID-Based Key Monitoring System\RFID-Based_KMS-05242022 - Original\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.pdb
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbproj.AssemblyReference.cache
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMAdminMenu.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMGUARDMENU.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMLOGIN.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMSPLASHSCREEN.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSACTION.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.FRMTRANSCLOSE.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.Resources.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccountReports.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucActivityLogReports.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCollegeSettings.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucCourseSettings.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardActLog.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardKeyTransReports.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucGuardReports.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucguardtrans.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHome.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucAccount.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucBorrow.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucHomeGuard.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemBorrow.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemQuantitySettings.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemReturn.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemSettings.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransaction.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucItemTransReports.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfile.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucProfileReports.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReports.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReportsBlank.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucReturn.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomCatSettings.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKey.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomKeyReports.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucRoomSettings.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSectionSettings.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettings.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucSettingsBlank.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucKeyTransaction.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionBlank.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID_Based_KMS.ucTransactionReports.resources
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbproj.GenerateResource.cache
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.vbproj.CoreCompileInputs.cache
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.exe
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.xml
+C:\RFID-Based_KMS-08042022\RFID-Based_KMS-08042022\RFID-Based_KMS\obj\Debug\RFID-Based_KMS.pdb

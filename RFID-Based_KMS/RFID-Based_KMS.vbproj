@@ -1,0 +1,633 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{51FA7950-CD00-47A0-8501-4C999EE0A13E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>RFID_Based_KMS.My.MyApplication</StartupObject>
+    <RootNamespace>RFID_Based_KMS</RootNamespace>
+    <AssemblyName>RFID-Based_KMS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>RFID-Based_KMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>RFID-Based_KMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="db_kmsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>db_kmsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="db_kmsDataSet.vb">
+      <DependentUpon>db_kmsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FRMAdminMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMAdminMenu.Designer.vb">
+      <DependentUpon>FRMAdminMenu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMGUARDMENU.Designer.vb">
+      <DependentUpon>FRMGUARDMENU.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRMGUARDMENU.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMLOGIN.Designer.vb">
+      <DependentUpon>FRMLOGIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRMLOGIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMSPLASHSCREEN.Designer.vb">
+      <DependentUpon>FRMSPLASHSCREEN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRMSPLASHSCREEN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMTRANSACTION.Designer.vb">
+      <DependentUpon>FRMTRANSACTION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRMTRANSACTION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMTRANSCLOSE.Designer.vb">
+      <DependentUpon>FRMTRANSCLOSE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FRMTRANSCLOSE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module_db.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ucAccountReports.Designer.vb">
+      <DependentUpon>ucAccountReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucAccountReports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucActivityLogReports.Designer.vb">
+      <DependentUpon>ucActivityLogReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucActivityLogReports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucBlankNew.Designer.vb">
+      <DependentUpon>ucBlankNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucBlankNew.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCollegeSettings.Designer.vb">
+      <DependentUpon>ucCollegeSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucCollegeSettings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCourseSettings.Designer.vb">
+      <DependentUpon>ucCourseSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucCourseSettings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucGuardActLog.Designer.vb">
+      <DependentUpon>ucGuardActLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucGuardActLog.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucguardblank.Designer.vb">
+      <DependentUpon>ucguardblank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucguardblank.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucGuardKeyTransReports.Designer.vb">
+      <DependentUpon>ucGuardKeyTransReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucGuardKeyTransReports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucGuardReports.Designer.vb">
+      <DependentUpon>ucGuardReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucGuardReports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucguardtrans.Designer.vb">
+      <DependentUpon>ucguardtrans.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucguardtrans.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucHome.Designer.vb">
+      <DependentUpon>ucHome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucHome.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucAccount.Designer.vb">
+      <DependentUpon>ucAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucAccount.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucBorrow.Designer.vb">
+      <DependentUpon>ucBorrow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucBorrow.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucHomeGuard.Designer.vb">
+      <DependentUpon>ucHomeGuard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucHomeGuard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucItemBorrow.Designer.vb">
+      <DependentUpon>ucItemBorrow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucItemBorrow.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucItemQuantitySettings.Designer.vb">
+      <DependentUpon>ucItemQuantitySettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucItemQuantitySettings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucItemReturn.Designer.vb">
+      <DependentUpon>ucItemReturn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucItemReturn.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucItemSettings.Designer.vb">
+      <DependentUpon>ucItemSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucItemSettings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucItemTransaction.Designer.vb">
+      <DependentUpon>ucItemTransaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucItemTransaction.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucItemTransBlank.Designer.vb">
+      <DependentUpon>ucItemTransBlank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucItemTransBlank.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucItemTransReports.Designer.vb">
+      <DependentUpon>ucItemTransReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucItemTransReports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucProfile.Designer.vb">
+      <DependentUpon>ucProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucProfile.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucProfileReports.Designer.vb">
+      <DependentUpon>ucProfileReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucProfileReports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucReports.Designer.vb">
+      <DependentUpon>ucReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucReports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucReportsBlank.Designer.vb">
+      <DependentUpon>ucReportsBlank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucReportsBlank.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucReturn.Designer.vb">
+      <DependentUpon>ucReturn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucReturn.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRoomCatSettings.Designer.vb">
+      <DependentUpon>ucRoomCatSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucRoomCatSettings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRoomKey.Designer.vb">
+      <DependentUpon>ucRoomKey.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucRoomKey.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRoomKeyReports.Designer.vb">
+      <DependentUpon>ucRoomKeyReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucRoomKeyReports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRoomSettings.Designer.vb">
+      <DependentUpon>ucRoomSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucRoomSettings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSectionSettings.Designer.vb">
+      <DependentUpon>ucSectionSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucSectionSettings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSettings.Designer.vb">
+      <DependentUpon>ucSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucSettings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSettingsBlank.Designer.vb">
+      <DependentUpon>ucSettingsBlank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucSettingsBlank.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucKeyTransaction.Designer.vb">
+      <DependentUpon>ucKeyTransaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucKeyTransaction.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucTransactionBlank.Designer.vb">
+      <DependentUpon>ucTransactionBlank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucTransactionBlank.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucTransactionReports.Designer.vb">
+      <DependentUpon>ucTransactionReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucTransactionReports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FRMAdminMenu.resx">
+      <DependentUpon>FRMAdminMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMGUARDMENU.resx">
+      <DependentUpon>FRMGUARDMENU.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMLOGIN.resx">
+      <DependentUpon>FRMLOGIN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMSPLASHSCREEN.resx">
+      <DependentUpon>FRMSPLASHSCREEN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMTRANSACTION.resx">
+      <DependentUpon>FRMTRANSACTION.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMTRANSCLOSE.resx">
+      <DependentUpon>FRMTRANSCLOSE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPTactivitylog.rdlc" />
+    <EmbeddedResource Include="RPTBORROWERSPROFILE.rdlc" />
+    <EmbeddedResource Include="RPTGuardActivityLog.rdlc" />
+    <EmbeddedResource Include="RPTGuardKeyTrans.rdlc" />
+    <EmbeddedResource Include="RPTITEMTRANS.rdlc" />
+    <EmbeddedResource Include="RPTKEYTRANS.rdlc" />
+    <EmbeddedResource Include="RPTProfile.rdlc" />
+    <EmbeddedResource Include="RPTRoomKey.rdlc" />
+    <EmbeddedResource Include="RPTuseracc.rdlc" />
+    <EmbeddedResource Include="ucAccountReports.resx">
+      <DependentUpon>ucAccountReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucActivityLogReports.resx">
+      <DependentUpon>ucActivityLogReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCollegeSettings.resx">
+      <DependentUpon>ucCollegeSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCourseSettings.resx">
+      <DependentUpon>ucCourseSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucGuardActLog.resx">
+      <DependentUpon>ucGuardActLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucGuardKeyTransReports.resx">
+      <DependentUpon>ucGuardKeyTransReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucGuardReports.resx">
+      <DependentUpon>ucGuardReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucguardtrans.resx">
+      <DependentUpon>ucguardtrans.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucHome.resx">
+      <DependentUpon>ucHome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucAccount.resx">
+      <DependentUpon>ucAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucBorrow.resx">
+      <DependentUpon>ucBorrow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucHomeGuard.resx">
+      <DependentUpon>ucHomeGuard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucItemBorrow.resx">
+      <DependentUpon>ucItemBorrow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucItemQuantitySettings.resx">
+      <DependentUpon>ucItemQuantitySettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucItemReturn.resx">
+      <DependentUpon>ucItemReturn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucItemSettings.resx">
+      <DependentUpon>ucItemSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucItemTransaction.resx">
+      <DependentUpon>ucItemTransaction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucItemTransReports.resx">
+      <DependentUpon>ucItemTransReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucProfile.resx">
+      <DependentUpon>ucProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucProfileReports.resx">
+      <DependentUpon>ucProfileReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucReports.resx">
+      <DependentUpon>ucReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucReportsBlank.resx">
+      <DependentUpon>ucReportsBlank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucReturn.resx">
+      <DependentUpon>ucReturn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRoomCatSettings.resx">
+      <DependentUpon>ucRoomCatSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRoomKey.resx">
+      <DependentUpon>ucRoomKey.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRoomKeyReports.resx">
+      <DependentUpon>ucRoomKeyReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRoomSettings.resx">
+      <DependentUpon>ucRoomSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSectionSettings.resx">
+      <DependentUpon>ucSectionSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSettings.resx">
+      <DependentUpon>ucSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSettingsBlank.resx">
+      <DependentUpon>ucSettingsBlank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucKeyTransaction.resx">
+      <DependentUpon>ucKeyTransaction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucTransactionBlank.resx">
+      <DependentUpon>ucTransactionBlank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucTransactionReports.resx">
+      <DependentUpon>ucTransactionReports.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="db_kmsDataSet.xsc">
+      <DependentUpon>db_kmsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="db_kmsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>db_kmsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="db_kmsDataSet.xss">
+      <DependentUpon>db_kmsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SETTINGS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\URS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CCS_final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transfar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transclose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyfar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyclose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\URSB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\item.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\item1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboardguard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_1637.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\COB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\COA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\COA_fINAL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\URSB1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\URSBfinal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\URS_FRMTRANS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlankProfile.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

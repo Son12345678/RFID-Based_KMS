@@ -1,0 +1,436 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RFID-Based_KMS
+</name>
+</assembly>
+<members>
+<member name="P:RFID_Based_KMS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.admin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.BlankProfile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.CCS_final">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.close">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.COA">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.COA_fINAL">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.COB">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.dashboard">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.dashboard2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.dashboard3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.dashboard4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.dashboardguard">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.IMG_1637">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.item">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.item1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.key">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.keyclose">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.keyfar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.login2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.profile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.reports">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.SETTINGS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.transaction">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.transclose">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.transfar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.URS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.URS_FRMTRANS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.URSB">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.URSB1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.URSBfinal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RFID_Based_KMS.My.Resources.Resources.user2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:RFID_Based_KMS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_borrowersprofileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_collegeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_itemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_itemcategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_keyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_roomcategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_sectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_useraccDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_courseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_roomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_keytransactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_itemtransactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_guardDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_activitylogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_itemcartDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_borrowersprofileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_collegeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_itemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_itemcategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_keyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_roomcategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_sectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_useraccRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_courseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_roomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_keytransactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_itemtransactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_guardRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_activitylogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_itemcartRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_borrowersprofileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_collegeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_itemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_itemcategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_keyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_roomcategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_sectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_useraccRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_courseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_roomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_keytransactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_itemtransactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_guardRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_activitylogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet.tbl_itemcartRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_borrowersprofileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_collegeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_itemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_itemcategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_keyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_roomcategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_sectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_useraccTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_courseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_roomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_keytransactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_itemtransactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_guardTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_activitylogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.tbl_itemcartTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:RFID_Based_KMS.db_kmsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(RFID_Based_KMS.db_kmsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:RFID_Based_KMS.db_kmsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(RFID_Based_KMS.db_kmsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:RFID_Based_KMS.db_kmsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(RFID_Based_KMS.db_kmsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:RFID_Based_KMS.db_kmsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:RFID_Based_KMS.db_kmsDataSetTableAdapters.TableAdapterManager.UpdateAll(RFID_Based_KMS.db_kmsDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:RFID_Based_KMS.db_kmsDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
